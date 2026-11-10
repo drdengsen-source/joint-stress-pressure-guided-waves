@@ -1,0 +1,4 @@
+file,record_no,datetime,transmit_set,f0_kHz,cycles,sigma_z_ext_MPa,p_set_MPa,p_actual_MPa,sigma_z_total_MPa,T_wall_C,averages,preamp_gain_dB,AFG_amplitude,gauge_p_reading_MPa,force_reading_kN
+W520_zero-load.csv,55,2026-09-14 10:37:41,W520,520,5,0,0,0.0,0.0,22.3,512,46,5.0 Vpp,0.0,-0.06
+L280_zero-load.csv,56,2026-09-14 10:37:43,L280,280,5,0,0,0.0,0.0,22.4,512,46,5.0 Vpp,0.0,-0.05
+L280_sz200MPa_p18.35MPa.csv,204,2026-09-14 15:34:11,L280,280,5,200,20,18.38,246.3,23.0,512,46,5.0 Vpp,18.38,7.48

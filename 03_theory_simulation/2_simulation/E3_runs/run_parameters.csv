@@ -1,0 +1,6 @@
+run,f0,Nc,txw,txl,t_end,frad,description
+A,520[kHz],5,1,0,130[us],1,wall-mode coil set driven
+AZ,520[kHz],5,1,0,130[us],0,as A with the radial Lorentz-force component switched off
+B,300[kHz],5,0,1,200[us],1,liquid-mode coil set driven at the initial operating point
+BP,280[kHz],5,0,1,200[us],1,liquid-mode coil set driven at the final operating point (run B')
+C,325[kHz],2,0,1,200[us],1,liquid-mode coil set; broadband 2-cycle burst (transmission efficiency)

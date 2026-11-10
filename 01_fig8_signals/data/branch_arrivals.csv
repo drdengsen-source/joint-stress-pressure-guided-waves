@@ -1,0 +1,7 @@
+# Branch parameters at the operating frequency, from the SAFE model (branches_operating.mat, field BR: f0, cp0, cg0).
+# Design oil sound speed c_f = 1450 m/s (Table 1). Predicted arrival = (5/2)/f0 + L/cg0, L = 0.100 m.
+branch,f0_Hz,cp0_m_per_s,cg0_m_per_s,eta_at_f0
+wall,520000,5387.855,5037.377,0.0523
+upper,280000,1979.090,1197.363,0.8287
+working,280000,1565.748,1482.861,0.8329
+lowest,280000,1339.775,1722.752,0.6860
